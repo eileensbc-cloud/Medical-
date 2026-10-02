@@ -1,0 +1,6 @@
+{
+  "name": "MediClaim OCR - Medical Cost Submission Portal",
+  "description": "Submit medical receipts and claims with automated AI OCR extraction, expense breakdown, review table, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
